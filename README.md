@@ -1,5 +1,3 @@
-# Redbus-Data-Scraping
-Redbus data scraping:
 
 Please go through READ_ME_IN_FILE.pptx for detailed overview.
 
